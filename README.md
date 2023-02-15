@@ -9,8 +9,8 @@
 
 ## Studying | 📖
 
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### My stats | 🚀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfmarques&layout=compact&theme=tokyonight)](https://github.com/rafaelfmarques/github-readme-stats)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelfmarques&layout=compact&theme=tokyonight)](https://github.com/rafaelfmarques/github-readme-stats)
