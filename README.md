@@ -10,7 +10,7 @@
 
 
 ## Studying | 📖
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/openai-%23412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
 
 ## My stats | 🚀
 
