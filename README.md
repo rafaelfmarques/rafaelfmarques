@@ -14,4 +14,4 @@
 
 ## My stats | 🚀
 
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelfmarques&layout=compact&theme=tokyonight)](https://github.com/rafaelfmarques/github-readme-stats)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight) 
