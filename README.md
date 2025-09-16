@@ -17,4 +17,4 @@
 
 ## My stats | 🚀
 
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight) 
+![Github stats](https://github-readme-stats-chi-eight-22.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight)
