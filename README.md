@@ -31,9 +31,16 @@
 
 <br/>
 
-## My Stats & Trophies | 🚀
+## My Stats| 🚀
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelfmarques&theme=tokyonight" height="195" alt="Streak Stats" />
 </div>
 <br/>
+
+<br/>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="100%" />
+</div>
+
