@@ -32,16 +32,8 @@
 <br/>
 
 ## My Stats & Trophies | 🚀
-
 <div align="center">
-  <img src="https://github-readme-stats-chi-eight-22.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelfmarques&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelfmarques&theme=tokyonight" height="195" alt="Streak Stats" />
 </div>
-
 <br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rafaelfmarques&theme=tokyonight&margin-w=15" alt="Trophies" />
-  </a>
-</div>
