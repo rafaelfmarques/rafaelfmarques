@@ -40,3 +40,10 @@
 
 <br/>
 
+<br/>
+
+<div align="center">
+  <img alt="Snake" src="https://raw.githubusercontent.com/rafaelfmarques/rafaelfmarques/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+
